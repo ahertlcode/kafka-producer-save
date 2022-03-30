@@ -1,0 +1,6 @@
+Sat Mar 26 2022 15:47:54 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
+Sat Mar 26 2022 15:47:56 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
+Sat Mar 26 2022 15:47:59 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
+Sat Mar 26 2022 15:48:01 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
+Sat Mar 26 2022 15:48:06 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
+Sat Mar 26 2022 15:48:09 GMT+0100 (West Africa Standard Time) - [testapp] Connection error: getaddrinfo ENOTFOUND kafka1
